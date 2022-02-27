@@ -1,0 +1,81 @@
+.container
+{
+    margin-bottom: 50px;
+}
+
+.bg-white
+{
+    background-color: white;
+}
+
+.bg-carousel
+{
+    
+    background-image: url("image/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    
+}
+
+.bg-carousel1
+{
+    background-image: url("image/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: 0px 300px; 
+}
+.carousel-item
+{
+    padding: 20px 40px;
+}
+.carousel-indicators div {
+    height: 7px;
+    width: 10px;
+    border-radius: 6px;
+    background-color: rgba(128, 128, 128, 0.3);
+    margin: 10px 3px;
+  }
+  
+.carousel-indicators .active {
+    height: 7px;
+    width: 30px;
+    border-radius: 14px;
+    background-image: linear-gradient(to right, #ff8206, #ffd019);
+  }
+
+
+.buy_now_button
+{
+    margin-top: 10px;
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+
+.orange-bg
+{
+    color: #FF9D00;
+}
+
+.gaph
+{
+    margin-bottom: 10px;
+}
+
+.card
+{
+    padding-left: 5px;
+    border : none;
+    box-shadow:  5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.center
+{
+   margin-left: 25%;
+   margin-right: 25%;
+}
