@@ -79,3 +79,24 @@
    margin-left: 25%;
    margin-right: 25%;
 }
+.line
+{
+    height: 7px;
+    width: 60px;
+    border-radius: 14px;
+    background-image: linear-gradient(to right, #ff8206, #ffd019);
+       
+}
+#shoe-card #perfume-card
+{
+  padding: 10px 20px;
+}
+
+#bag-card
+{
+  padding: 40px 40px;
+}
+
+.gaph{
+    padding-right: 10px;
+}
