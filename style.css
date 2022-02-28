@@ -81,22 +81,23 @@
 }
 .line
 {
-    height: 7px;
-    width: 60px;
-    border-radius: 14px;
+    height: 8px;
+    width: 110px;
+    border-radius: 20px;
     background-image: linear-gradient(to right, #ff8206, #ffd019);
        
 }
-#shoe-card #perfume-card
+#shoe-card,#perfume-card
 {
-  padding: 10px 20px;
+    border-radius: 15px 5px 30px 5px;
 }
 
 #bag-card
 {
-  padding: 40px 40px;
+    border-radius: 5px 15px 5px 30px
 }
 
-.gaph{
-    padding-right: 10px;
+.row div
+{
+    padding: 20px 40px;
 }
