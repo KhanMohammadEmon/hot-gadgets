@@ -101,3 +101,9 @@
 {
     padding: 20px 40px;
 }
+.bg
+{
+    background-color: #37475a;
+    border-radius: 10px;
+    height: 300px;
+}
