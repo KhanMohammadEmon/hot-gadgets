@@ -107,3 +107,14 @@
     border-radius: 10px;
     height: 300px;
 }
+#contect
+{
+    border: none;
+}
+#contect div h3
+{
+    color: white;
+}
+#contect div h6{
+    color : lightgray;
+}
